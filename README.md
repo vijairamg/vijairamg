@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 # My Profiles
+[![LinkedIn](https://img.shields.io/badge/Profile-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vijairamganeshmoorthy)
+
 [![LeetCode Stats](https://leetcard.jacoblin.cool/kaizoku20?theme=dark&font=Fauna%20One&ext=contest)](https://leetcode.com/kaizoku20/)
