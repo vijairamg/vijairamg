@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# My Profiles
+[![LeetCode Stats](https://leetcard.jacoblin.cool/kaizoku20?theme=dark&font=Fauna%20One&ext=contest)](https://leetcode.com/kaizoku20/)
